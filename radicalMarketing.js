@@ -40,18 +40,3 @@ function radicalM(inputArr) {
         return;
     });
 }
-
-
-radicalM(['Z',
-          'O',
-          'R',
-          'D',
-          'Z-O',
-          'R-O',
-          'D-O',
-          'P',
-          'O-P',
-          'O-Z',
-          'R-Z',
-          'D-Z'
-]);

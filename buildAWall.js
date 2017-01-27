@@ -28,10 +28,3 @@ function wallBuild(crews) {
     result += `\n${concCost} pesos`;
     return result;
 }
-
-let res = wallBuild(['21', '25', '28']);
-console.log(res);
-res = wallBuild(['17']);
-console.log(res);
-res = wallBuild(['17', '22', '17', '19', '17']);
-console.log(res);

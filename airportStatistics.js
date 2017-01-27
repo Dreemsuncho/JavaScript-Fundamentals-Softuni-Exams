@@ -68,12 +68,3 @@ function reportAir(flights) {
         });
     });
 }
-
-reportAir([
-    'Airbus London 100 land',
-    'Airbus Paris 200 depart',
-    'Airbus Madrid 130 depart',
-    'Airbus Lisbon 403 depart',
-    'Airbus Moscow 505 depart',
-    'Airbus Sofia 16 depart'
-]);

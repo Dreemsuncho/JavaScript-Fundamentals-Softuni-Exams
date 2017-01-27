@@ -58,17 +58,3 @@ function medenkaWar(inputArr) {
         console.log(`Damage - ${naskorDmg}`);
     }
 }
-
-medenkaWar(['2 dark medenkas',
-    '1 white medenkas',
-    '2 dark medenkas',
-    '2 dark medenkas',
-    '15 white medenkas',
-    '2 dark medenkas',
-    '2 dark medenkas'
-]);
-
-medenkaWar(['5 white medenkas',
-    '5 dark medenkas',
-    '4 white medenkas',
-]);

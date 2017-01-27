@@ -17,10 +17,3 @@ function spiceMine([startYield]) {
     totalYield -= 26;
     return `${days}\n${totalYield}`;
 }
-
-let res = spiceMine(['111']);
-console.log(res);
-res = spiceMine(['450']);
-console.log(res);
-res = spiceMine(['200']);
-console.log(res);

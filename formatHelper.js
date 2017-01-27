@@ -7,6 +7,3 @@ function helpFormat([text]) {
 
     console.log(text);
 }
-
-helpFormat(['Terribly formatted text .           With chaotic spacings." Terrible quoting "! Alsothis date is pretty confusing : 20 . 12. 16 .']);
-helpFormat(['Make,sure to give:proper spacing where is needed... !']);
